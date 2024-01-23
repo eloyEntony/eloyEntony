@@ -9,15 +9,15 @@ Coding has become a real passion for me! Over the past two years, I've immersed 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eloyentony&label=Profile%20views&color=0e75b6&style=flat" alt="eloyentony" /> </p>
 
-- 🔭 I’m currently working on **Commercial projects of varying complexity**
+- 🔭 I’m currently working on **Commercial Saas and E-comerce products of varying complexity**
 
-- 🌱 I’m currently learning **ReactNative | CI / CD**
+- 🌱 I’m currently learning **NextJS | CI/CD**
 
-- 🚀 I'm currently working on **Outsource**
+- 🚀 I'm currently working on **[Organized App](https://github.com/sws2apps/organized-app) and Freelance projects**
 
 - 👨‍💻 One of my projects [CarGet | Car auction](https://carget.pro/)
 
-- 💬 Ask me about **Anything**
+- 💬 Ask me about **Web App | Cross-platform | WPA**
 
 - 📫 How to reach me **kozyar.ant@gmail.com**
   

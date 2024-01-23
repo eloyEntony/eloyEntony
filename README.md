@@ -23,21 +23,6 @@ Coding has become a real passion for me! Over the past two years, I've immersed 
 
 - 🏡 Home is where the dog is. Beyond coding, I find joy in creating a haven for my furry friend and me. 🏠🐾
 
-<h3 align="left">Connect with me:</h3>
-<p>
-<a href="https://linkedin.com/in/anton-kozyar-8477501b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anton-kozyar-8477501b0" height="30" width="40" /></a>
-
-<a href="https://t.me/entony_hobs" target="blank">
-<img align="center" src="https://github.com/eloyEntony/eloyEntony/assets/52010931/3d3fac7b-9d4a-4475-9ccf-3fc2e83b0f4e" 
-alt="t.me/entony_hobs" height="50" width="50" />
-</a>
-
-<a href="mailto:kozyar.ant@gmail.com" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" 
-alt="kozyar.ant@gmail.com" height="40" width="40" />
-</a>
-</p>
-
 <h3 align="left">Languages:</h3>
 
 <p> 
@@ -124,5 +109,20 @@ alt="kozyar.ant@gmail.com" height="40" width="40" />
 </a> 
 </p>
 
+
+<h3 align="left">Connect with me:</h3>
+<p>
+<a href="https://linkedin.com/in/anton-kozyar-8477501b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anton-kozyar-8477501b0" height="30" width="40" /></a>
+
+<a href="https://t.me/entony_hobs" target="blank">
+<img align="center" src="https://github.com/eloyEntony/eloyEntony/assets/52010931/3d3fac7b-9d4a-4475-9ccf-3fc2e83b0f4e" 
+alt="t.me/entony_hobs" height="50" width="50" />
+</a>
+
+<a href="mailto:kozyar.ant@gmail.com" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" 
+alt="kozyar.ant@gmail.com" height="40" width="40" />
+</a>
+</p>
 
 

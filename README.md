@@ -4,8 +4,6 @@ I'm a front-end developer from Ukraine, and I've been working both in a team and
 
 Coding has become a real passion for me! Over the past two years, I've immersed myself in various commercial projects, bringing more value to products. My journey is a continuous forward motion!
 
-☕ Turning caffeine into code, one commit at a time! 💻
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eloyentony&label=Profile%20views&color=0e75b6&style=flat" alt="eloyentony" /> </p>
 
